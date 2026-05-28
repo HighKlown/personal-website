@@ -3,7 +3,7 @@ import { useState } from "react";
 const data = {
   name: "Mark Heo",
   title: "Data Analyst",
-  profilePhoto: "./profile.jpg", // Save your photo as profile.jpg in the same folder
+  profilePhoto: "/profile.jpg", // Save your photo as profile.jpg in the same folder
   email: "jungheo91@gmail.com",
   github: "https://github.com/HighKlown",
   linkedin: "https://www.linkedin.com/in/jung-h-364a70115/",
