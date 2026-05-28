@@ -32,16 +32,16 @@ const data = {
 
   education: [
     {
-      school: "Your University Name",
+      school: "Columbia University",
       degree: "B.S. Computer Science",
-      years: "2018 – 2022",
+      years: "2020 – 2024",
       courses: [
         "Data Structures & Algorithms",
         "Operating Systems",
-        "Computer Networks",
+        "NLP",
         "Database Systems",
-        "Machine Learning",
-        "Software Engineering",
+        "Applied NLP",
+        "Applied Computer Vision",
         "Web Development",
         "Linear Algebra",
         "Probability & Statistics",
@@ -51,7 +51,7 @@ const data = {
   ],
 
   skills: {
-    Languages: ["Python", "JavaScript", "TypeScript", "Java", "SQL"],
+    Languages: ["Python", "JavaScript", "TypeScript", "Java", "SQL", "C", "C++"],
     Frameworks: ["React", "Next.js", "Node.js", "FastAPI", "Spring Boot"],
     Tools: ["Git", "Docker", "AWS", "PostgreSQL", "MongoDB"],
   },
