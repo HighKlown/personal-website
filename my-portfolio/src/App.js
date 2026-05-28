@@ -5,7 +5,7 @@ const data = {
   title: "Data Analyst",
   profilePhoto: "./profile.jpg", // Save your photo as profile.jpg in the same folder
   email: "jungheo91@gmail.com",
-  github: "https://github.com/yourusername",
+  github: "https://github.com/HighKlown",
   linkedin: "https://www.linkedin.com/in/jung-h-364a70115/",
   bio: "Hi! I'm a data analyst passionate about turning raw data into meaningful insights. I enjoy working with data to solve real-world problems and help teams make better decisions.",
 
