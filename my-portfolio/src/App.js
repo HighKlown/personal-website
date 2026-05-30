@@ -12,7 +12,7 @@ const data = {
   projects: [
     {
       name: "Hatememe classifier",
-      description: "A brief description of what this project does and what problem it solves. Add a link to the repo or live demo below.",
+      description: "This project compares two ways of teaching an AI model to understand both images and text together. The first method is simpler: it looks at the image and the caption separately, then combines the results at the end to make a prediction. The second method is more advanced: it allows the image and caption to interact earlier in the process, so the model can better understand how the words relate to what is shown in the image. Overall, the project shows how combining visual information and written descriptions can help AI make better decisions than using either one alone.",
       tech: ["Python", "Pytorch", "Hugging Face"],
       link: "https://github.com/HighKlown/HatefulMeme-classification",
     },
