@@ -17,9 +17,9 @@ const data = {
       link: "https://github.com/HighKlown/HatefulMeme-classification",
     },
     {
-      name: "",
+      name: "Job Application Tracker",
       description: "Designed a Python-based data pipeline to extract job application emails, parse company and role information, and store structured application records in a relational database",
-      tech: ["Python", "FastAPI", "Docker"],
+      tech: ["Python", "Bigquery", "Docker"],
       link: "https://github.com/HighKlown/ACV",
     },
     // {
