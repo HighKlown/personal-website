@@ -18,16 +18,16 @@ const data = {
     },
     {
       name: "",
-      description: "Another project you've built. Explain the purpose, your role, and any interesting technical decisions you made.",
+      description: "Designed a Python-based data pipeline to extract job application emails, parse company and role information, and store structured application records in a relational database",
       tech: ["Python", "FastAPI", "Docker"],
-      link: "#",
+      link: "https://github.com/HighKlown/ACV",
     },
-    {
-      name: "Project Three",
-      description: "A third project showcasing a different skill set or domain. This could be a hackathon project, side project, or school assignment.",
-      tech: ["TypeScript", "Next.js", "Tailwind CSS"],
-      link: "#",
-    },
+    // {
+    //   name: "Project Three",
+    //   description: "A third project showcasing a different skill set or domain. This could be a hackathon project, side project, or school assignment.",
+    //   tech: ["TypeScript", "Next.js", "Tailwind CSS"],
+    //   link: "#",
+    // },
   ],
 
   education: [
