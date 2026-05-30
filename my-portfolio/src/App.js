@@ -11,13 +11,13 @@ const data = {
 
   projects: [
     {
-      name: "Project One",
+      name: "Hatememe classifier",
       description: "A brief description of what this project does and what problem it solves. Add a link to the repo or live demo below.",
-      tech: ["React", "Node.js", "PostgreSQL"],
-      link: "#",
+      tech: ["Python", "Pytorch", "Hugging Face"],
+      link: "https://github.com/HighKlown/HatefulMeme-classification",
     },
     {
-      name: "Project Two",
+      name: "",
       description: "Another project you've built. Explain the purpose, your role, and any interesting technical decisions you made.",
       tech: ["Python", "FastAPI", "Docker"],
       link: "#",
